@@ -1,2 +1,8 @@
+server:
+  origin: http://nestjs-task-management-frontend.s3-website.us-east-2.amazonaws.com/
+
 db:
+  host: 'awseb-e-pjjwc3mpqf-stack-awsebrdsdatabase-dbr23ddisgiw.ce7rekdpk1ee.us-east-2.rds.amazonaws.com'
+  username: 'postgres'
+  password: 'Abcdzyx3214'
   synchronize: false
